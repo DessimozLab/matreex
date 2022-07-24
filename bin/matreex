@@ -1,0 +1,80 @@
+#!/usr/bin/env python
+"""
+    Matreex
+
+    This file is part of Matreex.
+
+    Matreex is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Lesser General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Matreex is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+    GNU Lesser General Public License for more details.
+
+    You should have received a copy of the GNU Lesser General Public License
+    along with Matreex. If not, see <http://www.gnu.org/licenses/>.
+"""
+from argparse import ArgumentParser, HelpFormatter, _SubParsersAction
+from matreex import __version__, __copyright__
+from matreex._runners import run_matreex
+
+class NoSubparsersMetavarFormatter(HelpFormatter):
+    def _format_action(self, action):
+        result = super()._format_action(action)
+        if isinstance(action, _SubParsersAction):
+            # fix indentation on first line
+            return "%*s%s" % (self._current_indent, "", result.lstrip())
+        return result
+
+    def _format_action_invocation(self, action):#
+        if isinstance(action, _SubParsersAction):
+            # remove metavar and help line
+            return ""
+        return super()._format_action_invocation(action)
+
+    def _iter_indented_subactions(self, action):
+        if isinstance(action, _SubParsersAction):
+            try:
+                get_subactions = action._get_subactions
+            except AttributeError:
+                pass
+            else:
+                # remove indentation
+                yield from get_subactions()
+        else:
+            yield from super()._iter_indented_subactions(action)
+
+desc = 'Matreex: compact and interactive visualisation of large gene families using hierarchical phylogenetic profiles'
+parser = ArgumentParser(
+    formatter_class=NoSubparsersMetavarFormatter, prog="matreex", description=desc, epilog=__copyright__
+)
+parser.add_argument(
+    "--version",
+    "-v",
+    action="version",
+    help="Show version and exit.",
+    version=__version__,
+)
+
+parser.set_defaults(func=run_matreex)
+parser.add_argument(
+    "--src", required=True, choices=["oma", "panther", "json"], help="Source of gene family."
+)
+parser.add_argument(
+    "--ids", required=True, help="Csv list of HOG or family ids (e.g. HOG:B0618428.6b,HOG:B0618531 or PTHR11361)."
+)
+parser.add_argument(
+    "--out", required=True, help="Path/to/name."
+)
+parser.add_argument(
+    "--root_taxon", required=False, default='LUCA', help="Taxon used to prune the gene families."
+)
+
+args = parser.parse_args()
+if hasattr(args, "func"):
+    args.func(args)
+else:
+    parser.print_usage()
