@@ -17,7 +17,7 @@
     along with Matreex. If not, see <http://www.gnu.org/licenses/>.
 """
 import os
-from .matreex import run_matreex_oma, run_matreex_panther
+from .matreex import run_matreex_oma, run_matreex_panther, run_matreex_json
 
 def run_matreex(args):
     """
@@ -25,21 +25,23 @@ def run_matreex(args):
     - ids (HOG1,HOG2)
     - out (out_path + name)
     - root_taxon
+    - gt_json
+    - st_json
     """
-    ids = args.ids.split(',')
     out_path, name = os.path.split(args.out)
     if not out_path: out_path = './'
-    if args.src == 'oma':
-        run_matreex_oma(
-            ids, out_path, taxon2description={}, taxon2branch_color={}, taxon2matrix_color={}, ref_taxon=args.root_taxon,
-            ref_sp='', id2gene_name={}, fasta_fn=None, name=name, max_gene_nr=1000000, exp_json=False)
-    elif args.src == 'panther':
-        run_matreex_panther(
-            ids, out_path, taxon2description={}, taxon2branch_color={}, taxon2matrix_color={},
-            ref_taxon=args.root_taxon.capitalize(),
-            id2gene_name={}, name=name, max_gene_nr=1000000, exp_json=False, LDO=True, disable_duplicates=False)
+
+    if args.src in {'oma', 'panther'}:
+        ids = args.ids.split(',')
+        if args.src == 'oma':
+            run_matreex_oma(
+                ids, out_path, taxon2description={}, taxon2branch_color={}, taxon2matrix_color={}, ref_taxon=args.root_taxon,
+                ref_sp='', id2gene_name={}, fasta_fn=None, name=name, max_gene_nr=1000000, exp_json=False)
+        elif args.src == 'panther':
+            run_matreex_panther(
+                ids, out_path, taxon2description={}, taxon2branch_color={}, taxon2matrix_color={},
+                ref_taxon=args.root_taxon.capitalize(),
+                id2gene_name={}, name=name, max_gene_nr=1000000, exp_json=False, ldo=True, disable_duplicates=False)
 
     elif args.src == 'json':
-        pass
-
-
+        run_matreex_json(args.gt_custom, args.st_custom, out_path, name=name)

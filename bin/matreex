@@ -64,7 +64,7 @@ parser.add_argument(
     "--src", required=True, choices=["oma", "panther", "json"], help="Source of gene family."
 )
 parser.add_argument(
-    "--ids", required=True, help="Csv list of HOG or family ids (e.g. HOG:B0618428.6b,HOG:B0618531 or PTHR11361)."
+    "--ids", required=False, help="Csv list of HOG or family ids (e.g. HOG:C0677574,HOG:C0667455 or PTHR11361)."
 )
 parser.add_argument(
     "--out", required=True, help="Path/to/name."
@@ -72,7 +72,12 @@ parser.add_argument(
 parser.add_argument(
     "--root_taxon", required=False, default='LUCA', help="Taxon used to prune the gene families."
 )
-
+parser.add_argument(
+    "--gt_custom", required=False, help="Custom gene tree."
+)
+parser.add_argument(
+    "--st_custom", required=False, help="Custom species tree."
+)
 args = parser.parse_args()
 if hasattr(args, "func"):
     args.func(args)

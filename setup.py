@@ -34,7 +34,7 @@ setup(
     version=__version__,
     author='Victor Rossier and Clement Train',
     email='victorrossier@hotmail.com',
-    url='',
+    url='https://github.com/DessimozLab/matreex',
     description=desc,
     packages=find_packages(),
     install_requires=requirements,
