@@ -47,7 +47,7 @@ Only consistent gene tree-species tree pairs are supported!
 |description|No|Displayed on the right of the matrix|
 
 # Change log
-####Version 0.0.1
+#### Version 0.0.1
 - Initial release
 
 # License
