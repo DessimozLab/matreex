@@ -4,10 +4,14 @@ Matreex is a new dynamic tool to scale-up the visualisation of gene families. Ma
 # Installation
 Requires Python >= 3.6. Download the package from the PyPI, resolving the dependencies by using ``pip install matreex``.
 
-Alternatively, clone this repository and install manually.
+Alternatively, clone this repository and install manually with ``pip install .``.
 
-# Quick run
-``matreex --src oma --ids HOG:C0677574 --out ./``
+# Quick runs
+OMA: ``matreex --src oma --ids HOG:C0677574 --out ./``
+
+PANTHER: ``matreex --src panther --ids PTHR11361 --out ./``
+
+JSON (from the cloned repo): ``matreex --src json --out ./ --gt_custom paper_figures/opsins_gt.json --st_custom paper_figures/opsins_st.json``
 
 # Usage
 Required arguments: ``--src``, ``--out``, ``--ids`` or (``--gt_custom`` and ``--st_custom``)
@@ -25,8 +29,16 @@ Required arguments: ``--src``, ``--out``, ``--ids`` or (``--gt_custom`` and ``--
 | ``--gt_custom``||Custom gene tree in json
 | ``--st_custom``||Custom species tree in json
 
+# OMA
+HOG idenfiers can be retrieved from [OMA](https://omabrowser.org/oma/home/) by searching, for instance, a UniProt identifier. For example, we can find [here](https://omabrowser.org/oma/search/?type=all&query=p53_rat) that P53_RAT belongs to HOG:C0606207.
+
+# PANTHER
+Family identifiers can be retrieved from [PANTHER](http://www.pantherdb.org/) similarly. For instance, we can find [here](http://www.pantherdb.org/panther/familyList.do?searchType=basic&fieldName=all&listType=6&fieldValue=P53_rat) that P53_RAT belongs to PTHR11447.
+
 # Custom JSON inputs
 Only consistent gene tree-species tree pairs are supported!
+
+Example JSON files are provided in the folder ./paper_figures.
 
 ## Species tree format
 | Property        | Required  | Description |
@@ -47,7 +59,7 @@ Only consistent gene tree-species tree pairs are supported!
 |description|No|Displayed on the right of the matrix|
 
 # Change log
-#### Version 0.0.1
+#### Version 0.1.0
 - Initial release
 
 # License
