@@ -1,0 +1,1706 @@
+{
+    "taxon": "Vertebrata",
+    "description": "",
+    "color": "#666666",
+    "matrix_color": "#666666",
+    "children": [
+        {
+            "taxon": "Cyclostomata",
+            "description": "",
+            "color": "#666666",
+            "matrix_color": "#666666",
+            "children": [
+                {
+                    "taxon": "Petromyzon marinus",
+                    "description": "",
+                    "color": "#666666",
+                    "matrix_color": "#666666"
+                },
+                {
+                    "taxon": "Eptatretus burgeri",
+                    "description": "",
+                    "color": "#666666",
+                    "matrix_color": "#666666"
+                }
+            ]
+        },
+        {
+            "taxon": "Gnathostomata",
+            "description": "",
+            "color": "#666666",
+            "matrix_color": "#666666",
+            "children": [
+                {
+                    "taxon": "Callorhinchus milii",
+                    "description": "",
+                    "color": "#666666",
+                    "matrix_color": "#666666"
+                },
+                {
+                    "taxon": "Euteleostomi",
+                    "description": "",
+                    "color": "#666666",
+                    "matrix_color": "#666666",
+                    "children": [
+                        {
+                            "taxon": "Neopterygii",
+                            "description": "",
+                            "color": "#666666",
+                            "matrix_color": "#666666",
+                            "children": [
+                                {
+                                    "taxon": "Lepisosteus oculatus",
+                                    "description": "",
+                                    "color": "#666666",
+                                    "matrix_color": "#666666"
+                                },
+                                {
+                                    "taxon": "Teleostei",
+                                    "description": "",
+                                    "color": "#666666",
+                                    "matrix_color": "#666666",
+                                    "children": [
+                                        {
+                                            "taxon": "Anguilla anguilla",
+                                            "description": "",
+                                            "color": "#666666",
+                                            "matrix_color": "#666666"
+                                        },
+                                        {
+                                            "taxon": "Clupeocephala",
+                                            "description": "",
+                                            "color": "#666666",
+                                            "matrix_color": "#666666",
+                                            "children": [
+                                                {
+                                                    "taxon": "Euteleosteomorpha",
+                                                    "description": "",
+                                                    "color": "#666666",
+                                                    "matrix_color": "#666666",
+                                                    "children": [
+                                                        {
+                                                            "taxon": "Acanthomorphata",
+                                                            "description": "",
+                                                            "color": "#666666",
+                                                            "matrix_color": "#666666",
+                                                            "children": [
+                                                                {
+                                                                    "taxon": "Percomorphaceae",
+                                                                    "description": "",
+                                                                    "color": "#666666",
+                                                                    "matrix_color": "#666666",
+                                                                    "children": [
+                                                                        {
+                                                                            "taxon": "Anabas testudineus",
+                                                                            "description": "",
+                                                                            "color": "#666666",
+                                                                            "matrix_color": "#666666"
+                                                                        },
+                                                                        {
+                                                                            "taxon": "Carangaria",
+                                                                            "description": "",
+                                                                            "color": "#666666",
+                                                                            "matrix_color": "#666666",
+                                                                            "children": [
+                                                                                {
+                                                                                    "taxon": "Carangiformes",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "taxon": "Seriola dumerili",
+                                                                                            "description": "",
+                                                                                            "color": "#666666",
+                                                                                            "matrix_color": "#666666"
+                                                                                        },
+                                                                                        {
+                                                                                            "taxon": "Echeneis naucrates",
+                                                                                            "description": "",
+                                                                                            "color": "#666666",
+                                                                                            "matrix_color": "#666666"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Pleuronectoidei",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "taxon": "Cynoglossus semilaevis",
+                                                                                            "description": "",
+                                                                                            "color": "#666666",
+                                                                                            "matrix_color": "#666666"
+                                                                                        },
+                                                                                        {
+                                                                                            "taxon": "Scophthalmus maximus",
+                                                                                            "description": "",
+                                                                                            "color": "#d95f02",
+                                                                                            "matrix_color": "#d95f02"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "taxon": "Eupercaria",
+                                                                            "description": "",
+                                                                            "color": "#666666",
+                                                                            "matrix_color": "#666666",
+                                                                            "children": [
+                                                                                {
+                                                                                    "taxon": "Gasterosteus aculeatus",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666"
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Sparus aurata",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666"
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Tetraodontiformes",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "taxon": "Mola mola",
+                                                                                            "description": "",
+                                                                                            "color": "#7570b3",
+                                                                                            "matrix_color": "#7570b3"
+                                                                                        },
+                                                                                        {
+                                                                                            "taxon": "Tetraodontidae",
+                                                                                            "description": "",
+                                                                                            "color": "#666666",
+                                                                                            "matrix_color": "#666666",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "taxon": "Takifugu rubripes",
+                                                                                                    "description": "",
+                                                                                                    "color": "#666666",
+                                                                                                    "matrix_color": "#666666"
+                                                                                                },
+                                                                                                {
+                                                                                                    "taxon": "Tetraodon nigroviridis",
+                                                                                                    "description": "",
+                                                                                                    "color": "#666666",
+                                                                                                    "matrix_color": "#666666"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "taxon": "Ovalentaria",
+                                                                            "description": "",
+                                                                            "color": "#666666",
+                                                                            "matrix_color": "#666666",
+                                                                            "children": [
+                                                                                {
+                                                                                    "taxon": "Atherinomorphae",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "taxon": "Oryzias",
+                                                                                            "description": "",
+                                                                                            "color": "#666666",
+                                                                                            "matrix_color": "#666666",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "taxon": "Oryzias javanicus",
+                                                                                                    "description": "",
+                                                                                                    "color": "#666666",
+                                                                                                    "matrix_color": "#666666"
+                                                                                                },
+                                                                                                {
+                                                                                                    "taxon": "Oryzias latipes",
+                                                                                                    "description": "",
+                                                                                                    "color": "#666666",
+                                                                                                    "matrix_color": "#666666"
+                                                                                                },
+                                                                                                {
+                                                                                                    "taxon": "Oryzias melastigma",
+                                                                                                    "description": "",
+                                                                                                    "color": "#666666",
+                                                                                                    "matrix_color": "#666666"
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "taxon": "Cyprinodontiformes",
+                                                                                            "description": "",
+                                                                                            "color": "#666666",
+                                                                                            "matrix_color": "#666666",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "taxon": "Aplocheiloidei",
+                                                                                                    "description": "",
+                                                                                                    "color": "#666666",
+                                                                                                    "matrix_color": "#666666",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "taxon": "Nothobranchius furzeri",
+                                                                                                            "description": "",
+                                                                                                            "color": "#666666",
+                                                                                                            "matrix_color": "#666666"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "taxon": "Kryptolebias marmoratus",
+                                                                                                            "description": "",
+                                                                                                            "color": "#666666",
+                                                                                                            "matrix_color": "#666666"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "taxon": "Cyprinodontoidei",
+                                                                                                    "description": "",
+                                                                                                    "color": "#666666",
+                                                                                                    "matrix_color": "#666666",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "taxon": "Cyprinodon variegatus",
+                                                                                                            "description": "",
+                                                                                                            "color": "#a6761d",
+                                                                                                            "matrix_color": "#a6761d"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "taxon": "Poeciliinae",
+                                                                                                            "description": "",
+                                                                                                            "color": "#666666",
+                                                                                                            "matrix_color": "#666666",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "taxon": "Gambusia affinis",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#666666",
+                                                                                                                    "matrix_color": "#666666"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "taxon": "Poecilia",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#a6761d",
+                                                                                                                    "matrix_color": "#a6761d",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "taxon": "Poecilia formosa",
+                                                                                                                            "description": "",
+                                                                                                                            "color": "#a6761d",
+                                                                                                                            "matrix_color": "#a6761d"
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "taxon": "Poecilia reticulata",
+                                                                                                                            "description": "",
+                                                                                                                            "color": "#a6761d",
+                                                                                                                            "matrix_color": "#a6761d"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "taxon": "Xiphophorus maculatus",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#a6761d",
+                                                                                                                    "matrix_color": "#a6761d"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Salarias fasciatus",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666"
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Cichlidae",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "taxon": "Pseudocrenilabrinae",
+                                                                                            "description": "",
+                                                                                            "color": "#666666",
+                                                                                            "matrix_color": "#666666",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "taxon": "Haplochromini",
+                                                                                                    "description": "",
+                                                                                                    "color": "#666666",
+                                                                                                    "matrix_color": "#666666",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "taxon": "Astatotilapia calliptera",
+                                                                                                            "description": "",
+                                                                                                            "color": "#666666",
+                                                                                                            "matrix_color": "#666666"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "taxon": "Haplochromis burtoni",
+                                                                                                            "description": "",
+                                                                                                            "color": "#666666",
+                                                                                                            "matrix_color": "#666666"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "taxon": "Neolamprologus brichardi",
+                                                                                                    "description": "",
+                                                                                                    "color": "#666666",
+                                                                                                    "matrix_color": "#666666"
+                                                                                                },
+                                                                                                {
+                                                                                                    "taxon": "Oreochromis",
+                                                                                                    "description": "",
+                                                                                                    "color": "#666666",
+                                                                                                    "matrix_color": "#666666",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "taxon": "Oreochromis aureus",
+                                                                                                            "description": "",
+                                                                                                            "color": "#666666",
+                                                                                                            "matrix_color": "#666666"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "taxon": "Oreochromis niloticus",
+                                                                                                            "description": "",
+                                                                                                            "color": "#666666",
+                                                                                                            "matrix_color": "#666666"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "taxon": "Amphilophus citrinellus",
+                                                                                            "description": "",
+                                                                                            "color": "#666666",
+                                                                                            "matrix_color": "#666666"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Amphiprion",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "taxon": "Amphiprion ocellaris",
+                                                                                            "description": "",
+                                                                                            "color": "#666666",
+                                                                                            "matrix_color": "#666666"
+                                                                                        },
+                                                                                        {
+                                                                                            "taxon": "Amphiprion percula",
+                                                                                            "description": "",
+                                                                                            "color": "#666666",
+                                                                                            "matrix_color": "#666666"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "taxon": "Hippocampus comes",
+                                                                            "description": "",
+                                                                            "color": "#666666",
+                                                                            "matrix_color": "#666666"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "taxon": "Gadus morhua",
+                                                                    "description": "",
+                                                                    "color": "#7570b3",
+                                                                    "matrix_color": "#7570b3"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "taxon": "Protacanthopterygii",
+                                                            "description": "",
+                                                            "color": "#a6761d",
+                                                            "matrix_color": "#a6761d",
+                                                            "children": [
+                                                                {
+                                                                    "taxon": "Esox lucius",
+                                                                    "description": "",
+                                                                    "color": "#a6761d",
+                                                                    "matrix_color": "#a6761d"
+                                                                },
+                                                                {
+                                                                    "taxon": "Salmo",
+                                                                    "description": "",
+                                                                    "color": "#a6761d",
+                                                                    "matrix_color": "#a6761d",
+                                                                    "children": [
+                                                                        {
+                                                                            "taxon": "Salmo salar",
+                                                                            "description": "",
+                                                                            "color": "#a6761d",
+                                                                            "matrix_color": "#a6761d"
+                                                                        },
+                                                                        {
+                                                                            "taxon": "Salmo trutta",
+                                                                            "description": "",
+                                                                            "color": "#a6761d",
+                                                                            "matrix_color": "#a6761d"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "taxon": "Otophysi",
+                                                    "description": "",
+                                                    "color": "#666666",
+                                                    "matrix_color": "#666666",
+                                                    "children": [
+                                                        {
+                                                            "taxon": "Characiphysae",
+                                                            "description": "",
+                                                            "color": "#666666",
+                                                            "matrix_color": "#666666",
+                                                            "children": [
+                                                                {
+                                                                    "taxon": "Characoidei",
+                                                                    "description": "",
+                                                                    "color": "#a6761d",
+                                                                    "matrix_color": "#a6761d",
+                                                                    "children": [
+                                                                        {
+                                                                            "taxon": "Astyanax mexicanus",
+                                                                            "description": "",
+                                                                            "color": "#a6761d",
+                                                                            "matrix_color": "#a6761d"
+                                                                        },
+                                                                        {
+                                                                            "taxon": "Pygocentrus nattereri",
+                                                                            "description": "",
+                                                                            "color": "#a6761d",
+                                                                            "matrix_color": "#a6761d"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "taxon": "Electrophorus electricus",
+                                                                    "description": "",
+                                                                    "color": "#666666",
+                                                                    "matrix_color": "#666666"
+                                                                },
+                                                                {
+                                                                    "taxon": "Ictalurus punctatus",
+                                                                    "description": "",
+                                                                    "color": "#666666",
+                                                                    "matrix_color": "#666666"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "taxon": "Cyprinoidei",
+                                                            "description": "",
+                                                            "color": "#666666",
+                                                            "matrix_color": "#666666",
+                                                            "children": [
+                                                                {
+                                                                    "taxon": "Sinocyclocheilus grahami",
+                                                                    "description": "",
+                                                                    "color": "#666666",
+                                                                    "matrix_color": "#666666"
+                                                                },
+                                                                {
+                                                                    "taxon": "Danio rerio",
+                                                                    "description": "",
+                                                                    "color": "#666666",
+                                                                    "matrix_color": "#666666"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "taxon": "Sarcopterygii",
+                            "description": "",
+                            "color": "#666666",
+                            "matrix_color": "#666666",
+                            "children": [
+                                {
+                                    "taxon": "Latimeria chalumnae",
+                                    "description": "",
+                                    "color": "#7570b3",
+                                    "matrix_color": "#7570b3"
+                                },
+                                {
+                                    "taxon": "Tetrapoda",
+                                    "description": "",
+                                    "color": "#666666",
+                                    "matrix_color": "#666666",
+                                    "children": [
+                                        {
+                                            "taxon": "Amniota",
+                                            "description": "",
+                                            "color": "#666666",
+                                            "matrix_color": "#666666",
+                                            "children": [
+                                                {
+                                                    "taxon": "Mammalia",
+                                                    "description": "",
+                                                    "color": "#9f5688",
+                                                    "matrix_color": "#9f5688",
+                                                    "children": [
+                                                        {
+                                                            "taxon": "Ornithorhynchus anatinus",
+                                                            "description": "",
+                                                            "color": "#9f5688",
+                                                            "matrix_color": "#9f5688"
+                                                        },
+                                                        {
+                                                            "taxon": "Theria",
+                                                            "description": "",
+                                                            "color": "#9f5688",
+                                                            "matrix_color": "#9f5688",
+                                                            "children": [
+                                                                {
+                                                                    "taxon": "Eutheria",
+                                                                    "description": "",
+                                                                    "color": "#9f5688",
+                                                                    "matrix_color": "#9f5688",
+                                                                    "children": [
+                                                                        {
+                                                                            "taxon": "Afrotheria",
+                                                                            "description": "",
+                                                                            "color": "#9f5688",
+                                                                            "matrix_color": "#9f5688",
+                                                                            "children": [
+                                                                                {
+                                                                                    "taxon": "Procavia capensis",
+                                                                                    "description": "",
+                                                                                    "color": "#9f5688",
+                                                                                    "matrix_color": "#9f5688"
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Loxodonta africana",
+                                                                                    "description": "",
+                                                                                    "color": "#9f5688",
+                                                                                    "matrix_color": "#9f5688"
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Echinops telfairi",
+                                                                                    "description": "",
+                                                                                    "color": "#9f5688",
+                                                                                    "matrix_color": "#9f5688"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "taxon": "Boreoeutheria",
+                                                                            "description": "",
+                                                                            "color": "#9f5688",
+                                                                            "matrix_color": "#9f5688",
+                                                                            "children": [
+                                                                                {
+                                                                                    "taxon": "Euarchontoglires",
+                                                                                    "description": "",
+                                                                                    "color": "#9f5688",
+                                                                                    "matrix_color": "#9f5688",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "taxon": "Glires",
+                                                                                            "description": "",
+                                                                                            "color": "#9f5688",
+                                                                                            "matrix_color": "#9f5688",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "taxon": "Lagomorpha",
+                                                                                                    "description": "",
+                                                                                                    "color": "#9f5688",
+                                                                                                    "matrix_color": "#9f5688",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "taxon": "Oryctolagus cuniculus",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "taxon": "Ochotona princeps",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "taxon": "Rodentia",
+                                                                                                    "description": "",
+                                                                                                    "color": "#9f5688",
+                                                                                                    "matrix_color": "#9f5688",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "taxon": "Dipodomys ordii",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "taxon": "Hystricomorpha",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "taxon": "Bathyergidae",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#9f5688",
+                                                                                                                    "matrix_color": "#9f5688",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "taxon": "Fukomys damarensis",
+                                                                                                                            "description": "",
+                                                                                                                            "color": "#9f5688",
+                                                                                                                            "matrix_color": "#9f5688"
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "taxon": "Heterocephalus glaber",
+                                                                                                                            "description": "",
+                                                                                                                            "color": "#9f5688",
+                                                                                                                            "matrix_color": "#9f5688"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "taxon": "Cavia",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#9f5688",
+                                                                                                                    "matrix_color": "#9f5688",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "taxon": "Cavia aperea",
+                                                                                                                            "description": "",
+                                                                                                                            "color": "#9f5688",
+                                                                                                                            "matrix_color": "#9f5688"
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "taxon": "Cavia porcellus",
+                                                                                                                            "description": "",
+                                                                                                                            "color": "#9f5688",
+                                                                                                                            "matrix_color": "#9f5688"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "taxon": "Chinchilla lanigera",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#9f5688",
+                                                                                                                    "matrix_color": "#9f5688"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "taxon": "Octodon degus",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#9f5688",
+                                                                                                                    "matrix_color": "#9f5688"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "taxon": "Myomorpha",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "taxon": "Jaculus jaculus",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#9f5688",
+                                                                                                                    "matrix_color": "#9f5688"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "taxon": "Muroidea",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#9f5688",
+                                                                                                                    "matrix_color": "#9f5688",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "taxon": "Cricetulus griseus",
+                                                                                                                            "description": "",
+                                                                                                                            "color": "#9f5688",
+                                                                                                                            "matrix_color": "#9f5688"
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "taxon": "Murinae",
+                                                                                                                            "description": "",
+                                                                                                                            "color": "#9f5688",
+                                                                                                                            "matrix_color": "#9f5688",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "taxon": "Mus musculus",
+                                                                                                                                    "description": "",
+                                                                                                                                    "color": "#9f5688",
+                                                                                                                                    "matrix_color": "#9f5688"
+                                                                                                                                },
+                                                                                                                                {
+                                                                                                                                    "taxon": "Rattus norvegicus",
+                                                                                                                                    "description": "",
+                                                                                                                                    "color": "#9f5688",
+                                                                                                                                    "matrix_color": "#9f5688"
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "taxon": "Nannospalax galili",
+                                                                                                                            "description": "",
+                                                                                                                            "color": "#9f5688",
+                                                                                                                            "matrix_color": "#9f5688"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "taxon": "Ictidomys tridecemlineatus",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "taxon": "Primates",
+                                                                                            "description": "",
+                                                                                            "color": "#9f5688",
+                                                                                            "matrix_color": "#9f5688",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "taxon": "Haplorrhini",
+                                                                                                    "description": "",
+                                                                                                    "color": "#9f5688",
+                                                                                                    "matrix_color": "#9f5688",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "taxon": "Simiiformes",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "taxon": "Catarrhini",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#487515",
+                                                                                                                    "matrix_color": "#487515",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "taxon": "Cercopithecidae",
+                                                                                                                            "description": "",
+                                                                                                                            "color": "#487515",
+                                                                                                                            "matrix_color": "#487515",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "taxon": "Cercopithecinae",
+                                                                                                                                    "description": "",
+                                                                                                                                    "color": "#487515",
+                                                                                                                                    "matrix_color": "#487515",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "taxon": "Cercocebus atys",
+                                                                                                                                            "description": "",
+                                                                                                                                            "color": "#487515",
+                                                                                                                                            "matrix_color": "#487515"
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "taxon": "Chlorocebus sabaeus",
+                                                                                                                                            "description": "",
+                                                                                                                                            "color": "#487515",
+                                                                                                                                            "matrix_color": "#487515"
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "taxon": "Macaca",
+                                                                                                                                            "description": "",
+                                                                                                                                            "color": "#487515",
+                                                                                                                                            "matrix_color": "#487515",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "taxon": "Macaca fascicularis",
+                                                                                                                                                    "description": "",
+                                                                                                                                                    "color": "#487515",
+                                                                                                                                                    "matrix_color": "#487515"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "taxon": "Macaca mulatta",
+                                                                                                                                                    "description": "",
+                                                                                                                                                    "color": "#487515",
+                                                                                                                                                    "matrix_color": "#487515"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "taxon": "Macaca nemestrina",
+                                                                                                                                                    "description": "",
+                                                                                                                                                    "color": "#487515",
+                                                                                                                                                    "matrix_color": "#487515"
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "taxon": "Mandrillus leucophaeus",
+                                                                                                                                            "description": "",
+                                                                                                                                            "color": "#487515",
+                                                                                                                                            "matrix_color": "#487515"
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "taxon": "Papio anubis",
+                                                                                                                                            "description": "",
+                                                                                                                                            "color": "#487515",
+                                                                                                                                            "matrix_color": "#487515"
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                },
+                                                                                                                                {
+                                                                                                                                    "taxon": "Colobinae",
+                                                                                                                                    "description": "",
+                                                                                                                                    "color": "#487515",
+                                                                                                                                    "matrix_color": "#487515",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "taxon": "Colobus angolensis palliatus",
+                                                                                                                                            "description": "",
+                                                                                                                                            "color": "#487515",
+                                                                                                                                            "matrix_color": "#487515"
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "taxon": "Rhinopithecus",
+                                                                                                                                            "description": "",
+                                                                                                                                            "color": "#487515",
+                                                                                                                                            "matrix_color": "#487515",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "taxon": "Rhinopithecus bieti",
+                                                                                                                                                    "description": "",
+                                                                                                                                                    "color": "#487515",
+                                                                                                                                                    "matrix_color": "#487515"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "taxon": "Rhinopithecus roxellana",
+                                                                                                                                                    "description": "",
+                                                                                                                                                    "color": "#487515",
+                                                                                                                                                    "matrix_color": "#487515"
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "taxon": "Hominoidea",
+                                                                                                                            "description": "",
+                                                                                                                            "color": "#487515",
+                                                                                                                            "matrix_color": "#487515",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "taxon": "Hominidae",
+                                                                                                                                    "description": "",
+                                                                                                                                    "color": "#487515",
+                                                                                                                                    "matrix_color": "#487515",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "taxon": "Homininae",
+                                                                                                                                            "description": "",
+                                                                                                                                            "color": "#487515",
+                                                                                                                                            "matrix_color": "#487515",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "taxon": "Gorilla gorilla gorilla",
+                                                                                                                                                    "description": "",
+                                                                                                                                                    "color": "#487515",
+                                                                                                                                                    "matrix_color": "#487515"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "taxon": "Homo sapiens",
+                                                                                                                                                    "description": "",
+                                                                                                                                                    "color": "#487515",
+                                                                                                                                                    "matrix_color": "#487515"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "taxon": "Pan",
+                                                                                                                                                    "description": "",
+                                                                                                                                                    "color": "#487515",
+                                                                                                                                                    "matrix_color": "#487515",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "taxon": "Pan paniscus",
+                                                                                                                                                            "description": "",
+                                                                                                                                                            "color": "#487515",
+                                                                                                                                                            "matrix_color": "#487515"
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                            "taxon": "Pan troglodytes",
+                                                                                                                                                            "description": "",
+                                                                                                                                                            "color": "#487515",
+                                                                                                                                                            "matrix_color": "#487515"
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "taxon": "Pongo abelii",
+                                                                                                                                            "description": "",
+                                                                                                                                            "color": "#487515",
+                                                                                                                                            "matrix_color": "#487515"
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                },
+                                                                                                                                {
+                                                                                                                                    "taxon": "Nomascus leucogenys",
+                                                                                                                                    "description": "",
+                                                                                                                                    "color": "#487515",
+                                                                                                                                    "matrix_color": "#487515"
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "taxon": "Platyrrhini",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#9f5688",
+                                                                                                                    "matrix_color": "#9f5688",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "taxon": "Aotus nancymaae",
+                                                                                                                            "description": "",
+                                                                                                                            "color": "#9f5688",
+                                                                                                                            "matrix_color": "#9f5688"
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "taxon": "Cebidae",
+                                                                                                                            "description": "",
+                                                                                                                            "color": "#9f5688",
+                                                                                                                            "matrix_color": "#9f5688",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "taxon": "Callithrix jacchus",
+                                                                                                                                    "description": "",
+                                                                                                                                    "color": "#9f5688",
+                                                                                                                                    "matrix_color": "#9f5688"
+                                                                                                                                },
+                                                                                                                                {
+                                                                                                                                    "taxon": "Saimiri boliviensis boliviensis",
+                                                                                                                                    "description": "",
+                                                                                                                                    "color": "#9f5688",
+                                                                                                                                    "matrix_color": "#9f5688"
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "taxon": "Carlito syrichta",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "taxon": "Strepsirrhini",
+                                                                                                    "description": "",
+                                                                                                    "color": "#9f5688",
+                                                                                                    "matrix_color": "#9f5688",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "taxon": "Lemuriformes",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "taxon": "Microcebus murinus",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#9f5688",
+                                                                                                                    "matrix_color": "#9f5688"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "taxon": "Propithecus coquereli",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#9f5688",
+                                                                                                                    "matrix_color": "#9f5688"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "taxon": "Otolemur garnettii",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "taxon": "Tupaia belangeri",
+                                                                                            "description": "",
+                                                                                            "color": "#9f5688",
+                                                                                            "matrix_color": "#9f5688"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Laurasiatheria",
+                                                                                    "description": "",
+                                                                                    "color": "#9f5688",
+                                                                                    "matrix_color": "#9f5688",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "taxon": "Artiodactyla",
+                                                                                            "description": "",
+                                                                                            "color": "#9f5688",
+                                                                                            "matrix_color": "#9f5688",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "taxon": "Bovidae",
+                                                                                                    "description": "",
+                                                                                                    "color": "#9f5688",
+                                                                                                    "matrix_color": "#9f5688",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "taxon": "Bos",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "taxon": "Bos indicus x Bos taurus",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#9f5688",
+                                                                                                                    "matrix_color": "#9f5688"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "taxon": "Bos taurus",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#9f5688",
+                                                                                                                    "matrix_color": "#9f5688"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "taxon": "Caprinae",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "taxon": "Capra hircus",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#9f5688",
+                                                                                                                    "matrix_color": "#9f5688"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "taxon": "Ovis aries",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#9f5688",
+                                                                                                                    "matrix_color": "#9f5688"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "taxon": "Sus scrofa",
+                                                                                                    "description": "",
+                                                                                                    "color": "#9f5688",
+                                                                                                    "matrix_color": "#9f5688"
+                                                                                                },
+                                                                                                {
+                                                                                                    "taxon": "Vicugna pacos",
+                                                                                                    "description": "",
+                                                                                                    "color": "#9f5688",
+                                                                                                    "matrix_color": "#9f5688"
+                                                                                                },
+                                                                                                {
+                                                                                                    "taxon": "Cetacea",
+                                                                                                    "description": "",
+                                                                                                    "color": "#9f5688",
+                                                                                                    "matrix_color": "#9f5688",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "taxon": "Balaenoptera musculus",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "taxon": "Tursiops truncatus",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "taxon": "Carnivora",
+                                                                                            "description": "",
+                                                                                            "color": "#9f5688",
+                                                                                            "matrix_color": "#9f5688",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "taxon": "Caniformia",
+                                                                                                    "description": "",
+                                                                                                    "color": "#9f5688",
+                                                                                                    "matrix_color": "#9f5688",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "taxon": "Canidae",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "taxon": "Canis lupus familiaris",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#9f5688",
+                                                                                                                    "matrix_color": "#9f5688"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "taxon": "Vulpes vulpes",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#9f5688",
+                                                                                                                    "matrix_color": "#9f5688"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "taxon": "Mustela putorius furo",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "taxon": "Ursidae",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "taxon": "Ailuropoda melanoleuca",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#9f5688",
+                                                                                                                    "matrix_color": "#9f5688"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "taxon": "Ursus",
+                                                                                                                    "description": "",
+                                                                                                                    "color": "#9f5688",
+                                                                                                                    "matrix_color": "#9f5688",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "taxon": "Ursus americanus",
+                                                                                                                            "description": "",
+                                                                                                                            "color": "#9f5688",
+                                                                                                                            "matrix_color": "#9f5688"
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "taxon": "Ursus maritimus",
+                                                                                                                            "description": "",
+                                                                                                                            "color": "#9f5688",
+                                                                                                                            "matrix_color": "#9f5688"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "taxon": "Feliformia",
+                                                                                                    "description": "",
+                                                                                                    "color": "#9f5688",
+                                                                                                    "matrix_color": "#9f5688",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "taxon": "Felis catus",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "taxon": "Suricata suricatta",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "taxon": "Chiroptera",
+                                                                                            "description": "",
+                                                                                            "color": "#9f5688",
+                                                                                            "matrix_color": "#9f5688",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "taxon": "Pteropus vampyrus",
+                                                                                                    "description": "",
+                                                                                                    "color": "#9f5688",
+                                                                                                    "matrix_color": "#9f5688"
+                                                                                                },
+                                                                                                {
+                                                                                                    "taxon": "Microchiroptera",
+                                                                                                    "description": "",
+                                                                                                    "color": "#9f5688",
+                                                                                                    "matrix_color": "#9f5688",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "taxon": "Rhinolophus ferrumequinum",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "taxon": "Myotis lucifugus",
+                                                                                                            "description": "",
+                                                                                                            "color": "#9f5688",
+                                                                                                            "matrix_color": "#9f5688"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "taxon": "Eulipotyphla",
+                                                                                            "description": "",
+                                                                                            "color": "#9f5688",
+                                                                                            "matrix_color": "#9f5688",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "taxon": "Erinaceus europaeus",
+                                                                                                    "description": "",
+                                                                                                    "color": "#9f5688",
+                                                                                                    "matrix_color": "#9f5688"
+                                                                                                },
+                                                                                                {
+                                                                                                    "taxon": "Sorex araneus",
+                                                                                                    "description": "",
+                                                                                                    "color": "#9f5688",
+                                                                                                    "matrix_color": "#9f5688"
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "taxon": "Equus",
+                                                                                            "description": "",
+                                                                                            "color": "#9f5688",
+                                                                                            "matrix_color": "#9f5688",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "taxon": "Equus asinus",
+                                                                                                    "description": "",
+                                                                                                    "color": "#9f5688",
+                                                                                                    "matrix_color": "#9f5688"
+                                                                                                },
+                                                                                                {
+                                                                                                    "taxon": "Equus caballus",
+                                                                                                    "description": "",
+                                                                                                    "color": "#9f5688",
+                                                                                                    "matrix_color": "#9f5688"
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "taxon": "Manis javanica",
+                                                                                            "description": "",
+                                                                                            "color": "#9f5688",
+                                                                                            "matrix_color": "#9f5688"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "taxon": "Xenarthra",
+                                                                            "description": "",
+                                                                            "color": "#9f5688",
+                                                                            "matrix_color": "#9f5688",
+                                                                            "children": [
+                                                                                {
+                                                                                    "taxon": "Dasypus novemcinctus",
+                                                                                    "description": "",
+                                                                                    "color": "#9f5688",
+                                                                                    "matrix_color": "#9f5688"
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Choloepus hoffmanni",
+                                                                                    "description": "",
+                                                                                    "color": "#9f5688",
+                                                                                    "matrix_color": "#9f5688"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "taxon": "Metatheria",
+                                                                    "description": "",
+                                                                    "color": "#9f5688",
+                                                                    "matrix_color": "#9f5688",
+                                                                    "children": [
+                                                                        {
+                                                                            "taxon": "Sarcophilus harrisii",
+                                                                            "description": "",
+                                                                            "color": "#9f5688",
+                                                                            "matrix_color": "#9f5688"
+                                                                        },
+                                                                        {
+                                                                            "taxon": "Monodelphis domestica",
+                                                                            "description": "",
+                                                                            "color": "#9f5688",
+                                                                            "matrix_color": "#9f5688"
+                                                                        },
+                                                                        {
+                                                                            "taxon": "Diprotodontia",
+                                                                            "description": "",
+                                                                            "color": "#9f5688",
+                                                                            "matrix_color": "#9f5688",
+                                                                            "children": [
+                                                                                {
+                                                                                    "taxon": "Macropus eugenii",
+                                                                                    "description": "",
+                                                                                    "color": "#9f5688",
+                                                                                    "matrix_color": "#9f5688"
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Phascolarctos cinereus",
+                                                                                    "description": "",
+                                                                                    "color": "#9f5688",
+                                                                                    "matrix_color": "#9f5688"
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Vombatus ursinus",
+                                                                                    "description": "",
+                                                                                    "color": "#9f5688",
+                                                                                    "matrix_color": "#9f5688"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "taxon": "Sauria",
+                                                    "description": "",
+                                                    "color": "#666666",
+                                                    "matrix_color": "#666666",
+                                                    "children": [
+                                                        {
+                                                            "taxon": "Archelosauria",
+                                                            "description": "",
+                                                            "color": "#666666",
+                                                            "matrix_color": "#666666",
+                                                            "children": [
+                                                                {
+                                                                    "taxon": "Neognathae",
+                                                                    "description": "",
+                                                                    "color": "#666666",
+                                                                    "matrix_color": "#666666",
+                                                                    "children": [
+                                                                        {
+                                                                            "taxon": "Galloanserae",
+                                                                            "description": "",
+                                                                            "color": "#666666",
+                                                                            "matrix_color": "#666666",
+                                                                            "children": [
+                                                                                {
+                                                                                    "taxon": "Anas platyrhynchos",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "taxon": "ANAPL",
+                                                                                            "description": "",
+                                                                                            "color": "#666666",
+                                                                                            "matrix_color": "#666666"
+                                                                                        },
+                                                                                        {
+                                                                                            "taxon": "Anas platyrhynchos platyrhynchos",
+                                                                                            "description": "",
+                                                                                            "color": "#666666",
+                                                                                            "matrix_color": "#666666"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Phasianidae",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "taxon": "Meleagris gallopavo",
+                                                                                            "description": "",
+                                                                                            "color": "#666666",
+                                                                                            "matrix_color": "#666666"
+                                                                                        },
+                                                                                        {
+                                                                                            "taxon": "Phasianinae",
+                                                                                            "description": "",
+                                                                                            "color": "#666666",
+                                                                                            "matrix_color": "#666666",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "taxon": "Gallus gallus",
+                                                                                                    "description": "",
+                                                                                                    "color": "#666666",
+                                                                                                    "matrix_color": "#666666"
+                                                                                                },
+                                                                                                {
+                                                                                                    "taxon": "Phasianus colchicus",
+                                                                                                    "description": "",
+                                                                                                    "color": "#666666",
+                                                                                                    "matrix_color": "#666666"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "taxon": "Passeriformes",
+                                                                            "description": "",
+                                                                            "color": "#666666",
+                                                                            "matrix_color": "#666666",
+                                                                            "children": [
+                                                                                {
+                                                                                    "taxon": "Ficedula albicollis",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666"
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Parus major",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666"
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Junco hyemalis",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666"
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Passeroidea",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "taxon": "Estrildidae",
+                                                                                            "description": "",
+                                                                                            "color": "#666666",
+                                                                                            "matrix_color": "#666666",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "taxon": "Chloebia gouldiae",
+                                                                                                    "description": "",
+                                                                                                    "color": "#666666",
+                                                                                                    "matrix_color": "#666666"
+                                                                                                },
+                                                                                                {
+                                                                                                    "taxon": "Taeniopygia guttata",
+                                                                                                    "description": "",
+                                                                                                    "color": "#666666",
+                                                                                                    "matrix_color": "#666666"
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "taxon": "Serinus canaria",
+                                                                                            "description": "",
+                                                                                            "color": "#666666",
+                                                                                            "matrix_color": "#666666"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "taxon": "Psittaciformes",
+                                                                            "description": "",
+                                                                            "color": "#666666",
+                                                                            "matrix_color": "#666666",
+                                                                            "children": [
+                                                                                {
+                                                                                    "taxon": "Strigops habroptila",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666"
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Melopsittacus undulatus",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "taxon": "Athene cunicularia",
+                                                                            "description": "",
+                                                                            "color": "#666666",
+                                                                            "matrix_color": "#666666"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "taxon": "Cryptodira",
+                                                                    "description": "",
+                                                                    "color": "#666666",
+                                                                    "matrix_color": "#666666",
+                                                                    "children": [
+                                                                        {
+                                                                            "taxon": "Testudinoidea",
+                                                                            "description": "",
+                                                                            "color": "#666666",
+                                                                            "matrix_color": "#666666",
+                                                                            "children": [
+                                                                                {
+                                                                                    "taxon": "Chrysemys picta bellii",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666"
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Chelonoidis abingdonii",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "taxon": "Pelodiscus sinensis",
+                                                                            "description": "",
+                                                                            "color": "#666666",
+                                                                            "matrix_color": "#666666"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "taxon": "Lepidosauria",
+                                                            "description": "",
+                                                            "color": "#666666",
+                                                            "matrix_color": "#666666",
+                                                            "children": [
+                                                                {
+                                                                    "taxon": "Sphenodon punctatus",
+                                                                    "description": "",
+                                                                    "color": "#666666",
+                                                                    "matrix_color": "#666666"
+                                                                },
+                                                                {
+                                                                    "taxon": "Episquamata",
+                                                                    "description": "",
+                                                                    "color": "#666666",
+                                                                    "matrix_color": "#666666",
+                                                                    "children": [
+                                                                        {
+                                                                            "taxon": "Podarcis muralis",
+                                                                            "description": "",
+                                                                            "color": "#666666",
+                                                                            "matrix_color": "#666666"
+                                                                        },
+                                                                        {
+                                                                            "taxon": "Toxicofera",
+                                                                            "description": "",
+                                                                            "color": "#666666",
+                                                                            "matrix_color": "#666666",
+                                                                            "children": [
+                                                                                {
+                                                                                    "taxon": "Anolis carolinensis",
+                                                                                    "description": "",
+                                                                                    "color": "#666666",
+                                                                                    "matrix_color": "#666666"
+                                                                                },
+                                                                                {
+                                                                                    "taxon": "Pseudonaja textilis",
+                                                                                    "description": "",
+                                                                                    "color": "#9f5688",
+                                                                                    "matrix_color": "#9f5688"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "taxon": "Xenopus",
+                                            "description": "",
+                                            "color": "#666666",
+                                            "matrix_color": "#666666",
+                                            "children": [
+                                                {
+                                                    "taxon": "Xenopus tropicalis",
+                                                    "description": "",
+                                                    "color": "#666666",
+                                                    "matrix_color": "#666666"
+                                                },
+                                                {
+                                                    "taxon": "Xenopus laevis",
+                                                    "description": "",
+                                                    "color": "#666666",
+                                                    "matrix_color": "#666666"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
