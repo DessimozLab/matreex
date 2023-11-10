@@ -7,7 +7,7 @@ Requires Python >= 3.6. Download the package from the PyPI, resolving the depend
 Alternatively, clone this repository and install manually with ``pip install .``.
 
 # Quick runs
-OMA: ``matreex --src oma --ids HOG:C0677574 --out ./``
+OMA: ``matreex --src oma --ids HOG:D0681745 --out ./``
 
 PANTHER: ``matreex --src panther --ids PTHR11361 --out ./``
 
@@ -23,14 +23,14 @@ Required arguments: ``--src``, ``--out``, ``--ids`` or (``--gt_custom`` and ``--
 | Flag                 | Default                | Description |
 |:--------------------|:----------------------|:-----------|
 | ``--src``||Source of gene family (oma, panther, json)
-| ``--ids``||Csv list of HOG or family ids (e.g. HOG:C0677574,HOG:C0667455 for oma or PTHR11361 for panther)
+| ``--ids``||Csv list of HOG or family ids (e.g. HOG:D0681745,HOG:D0679907 for oma or PTHR11361 for panther)
 | ``--out``||Path/to/name
 | ``--root_taxon``|LUCA|Taxon used to prune the gene families
 | ``--gt_custom``||Custom gene tree in json
 | ``--st_custom``||Custom species tree in json
 
 # OMA
-HOG idenfiers can be retrieved from [OMA](https://omabrowser.org/oma/home/) by searching, for instance, a UniProt identifier. For example, we can find [here](https://omabrowser.org/oma/search/?type=all&query=p53_rat) that P53_RAT belongs to HOG:C0606207.
+HOG idenfiers can be retrieved from [OMA](https://omabrowser.org/oma/home/) by searching, for instance, a UniProt identifier. For example, we can find [here](https://omabrowser.org/oma/search/?type=all&query=p53_rat) that P53_RAT belongs to HOG:D0622467.
 
 # PANTHER
 Family identifiers can be retrieved from [PANTHER](http://www.pantherdb.org/) similarly. For instance, we can find [here](http://www.pantherdb.org/panther/familyList.do?searchType=basic&fieldName=all&listType=6&fieldValue=P53_rat) that P53_RAT belongs to PTHR11447.
