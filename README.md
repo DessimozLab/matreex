@@ -59,6 +59,9 @@ Example JSON files are provided in the folder ./paper_figures.
 |description|No|Displayed on the right of the matrix|
 
 # Change log
+##### Version 0.1.1
+- Updated Species tree & example HOGs to match OMA version of July 2023.
+
 #### Version 0.1.0
 - Initial release
 
