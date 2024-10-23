@@ -19,7 +19,7 @@
 from datetime import date
 
 __packagename__ = "matreex"
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 __copyright__ = "(C) 2022-{:d} Victor Rossier and Clement Train".format(
     date.today().year
 )
