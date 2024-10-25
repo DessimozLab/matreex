@@ -23,14 +23,14 @@ Required arguments: ``--src``, ``--out``, ``--ids`` or (``--gt_custom`` and ``--
 | Flag                 | Default                | Description |
 |:--------------------|:----------------------|:-----------|
 | ``--src``||Source of gene family (oma, panther, json)
-| ``--ids``||Csv list of HOG or family ids (e.g. HOG:D0681745,HOG:D0679907 for oma or PTHR11361 for panther)
+| ``--ids``||Csv list of HOG or family ids (e.g. HOG:E0802715,HOG:E0802113 for oma or PTHR11361 for panther)
 | ``--out``||Path/to/name
 | ``--root_taxon``|LUCA|Taxon used to prune the gene families
 | ``--gt_custom``||Custom gene tree in json
 | ``--st_custom``||Custom species tree in json
 
 # OMA
-HOG idenfiers can be retrieved from [OMA](https://omabrowser.org/oma/home/) by searching, for instance, a UniProt identifier. For example, we can find [here](https://omabrowser.org/oma/search/?type=all&query=p53_rat) that P53_RAT belongs to HOG:D0622467.
+HOG idenfiers can be retrieved from [OMA](https://omabrowser.org/oma/home/) by searching, for instance, a UniProt identifier. For example, we can find [here](https://omabrowser.org/oma/hog/HOG:E0739094.3a.3b/Murinae/iham/) that P53_RAT belongs to HOG:E0739094.
 
 # PANTHER
 Family identifiers can be retrieved from [PANTHER](http://www.pantherdb.org/) similarly. For instance, we can find [here](http://www.pantherdb.org/panther/familyList.do?searchType=basic&fieldName=all&listType=6&fieldValue=P53_rat) that P53_RAT belongs to PTHR11447.
@@ -59,6 +59,10 @@ Example JSON files are provided in the folder ./paper_figures.
 |description|No|Displayed on the right of the matrix|
 
 # Change log
+
+##### Version 0.1.2
+- Updated Species tree & example HOGs to match OMA version of July 2024.
+
 ##### Version 0.1.1
 - Updated Species tree & example HOGs to match OMA version of July 2023.
 
