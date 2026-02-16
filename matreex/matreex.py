@@ -258,9 +258,9 @@ def export_json(out_path, name, gt_json, st_json):
     """
     Export intermediate species and gene tree json files.
     """
-    with open('{}{}_gt.json'.format(out_path, name), 'w') as otf:
+    with open('{}/{}_gt.json'.format(out_path, name), 'w') as otf:
         json.dump(gt_json, otf, ensure_ascii=False, indent=4)
-    with open('{}{}_st.json'.format(out_path, name), 'w') as otf:
+    with open('{}/{}_st.json'.format(out_path, name), 'w') as otf:
         json.dump(st_json, otf, ensure_ascii=False, indent=4)
 
 
